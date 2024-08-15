@@ -1,7 +1,7 @@
 # Connect 4
 This project implements Connect 4 logic and develops a GUI with PyGame. It supports Connect N for any integer N and has an integrated bot to play with.
 
-## How to play
+### How to Play
 Please make sure to have PyGame installed. If it is not already, type `pip install pygame` into the terminal.
 
 The default is two players playing Connect 4. The standard board is the same as the physical game, 7 columns x 6 rows. From the terminal command line, to play, after downloading the code, run `python3 src/gui.py`.
