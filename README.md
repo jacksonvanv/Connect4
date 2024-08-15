@@ -15,4 +15,7 @@ Two bots can also play each other. Run `python3 src/gui.py --player1=bot --playe
 
 #### GUI
 The GUI currently supports two players, yellow and red. Find below a screenshot of a sample game.
+
 <img width="524" alt="Screenshot 2024-08-15 at 12 58 15 PM" src="https://github.com/user-attachments/assets/2fd3d580-299d-4e46-97a6-0b761d1be939">
+
+**Note: I have a similar project implementing the game Go, which was created for a Computer Science course. The code for Go is available on request.**
